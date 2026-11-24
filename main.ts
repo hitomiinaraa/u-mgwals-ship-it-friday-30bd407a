@@ -1,3 +1,4 @@
+// Revision pass: one-line Friday deploy joke, kept byte-identical to the build.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry = "deploy: merged my own PR, approved my own PR, broke prod by 5pm";
